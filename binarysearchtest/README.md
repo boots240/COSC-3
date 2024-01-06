@@ -1,0 +1,1 @@
+The user is prompted to enter a value to search for, and the program uses binary search to find and display the position of the value in the sorted array. The user is then given the option to search again, creating an interactive binary search application for string values
