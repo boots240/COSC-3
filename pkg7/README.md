@@ -1,0 +1,1 @@
+Lab7 introduces two classes, MyList<T extends Number> and MyListTest, showcasing the functionality of a generic numeric list manager. The project demonstrates how these classes can efficiently handle and analyze numeric data, finding the smallest and largest values within each list.
