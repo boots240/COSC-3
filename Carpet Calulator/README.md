@@ -1,0 +1,1 @@
+The project allows users to model room dimensions and carpets, calculating costs based on the provided information. It showcases various features of object-oriented programming, including inheritance, method overriding, and interface implementation. 
